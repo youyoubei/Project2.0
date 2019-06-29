@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component inheritJdk="true">
+	<exclude-output/>
+	<contentEntry url="file://$MODULE_DIR$"/>
+	<lib name="lib" scope="COMPILE">
+		<relative-module-cls project-related="file://$MODULE_DIR$/web/WEB-INF/lib"/>
+	</lib>
+	<lib name="web/WEB-INF/lib" scope="COMPILE">
+		<relative-module-cls project-related="file://$MODULE_DIR$/web/WEB-INF/lib"/>
+	</lib>
+	<levels>
+		<level name="lib" value="project"/>
+	</levels>
+</component>

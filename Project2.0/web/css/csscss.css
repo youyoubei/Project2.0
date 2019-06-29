@@ -1,0 +1,50 @@
+@charset "utf-8";
+/* CSS Document */
+
+.table {
+	border:0px;
+	margin-top:18px;
+}
+.td{
+	background-color: #737373;
+	height:35px;
+	width:100px;
+	border-right:solid;
+	border-right-color:#555555;
+	border-right-width:1px;
+}
+.body{
+	width:980px;
+}
+.hr{
+	background-color:#e5e5e5;
+	width:980px;
+	height:1px;
+}
+.li{
+	float:left;
+	font-size:12px;
+	margin:auto;
+	
+}
+a:link {
+	color: #0088cc;
+	text-decoration: none;
+}
+a:visited {
+	text-decoration: none;
+}
+a:hover {
+	text-decoration: none;
+}
+a:active {
+	text-decoration: none;
+}
+.zi{
+	color:#666666; 
+	font-size:12px;
+}
+.Ozi1{
+    color:#333333;
+    font-size: 14px;
+}
